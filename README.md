@@ -7,6 +7,9 @@ The framework is actively being developed. Feedbacks (issues, suggestions, etc.)
 
 # Framework Overview
 
+![Image](opensource.png)        
+Figure 1: Framework of Causal-VLReasoning.
+
 Our Causal-VLReasoning implements methods for visual-linguistic causal learning:
 
 * VQA.
