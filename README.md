@@ -63,6 +63,13 @@ Method:
 Benchmarks:    
 [SUTD-TrafficQA](https://sutdcv.github.io/SUTD-TrafficQA/#/), [TGIF-QA](https://github.com/YunseokJANG/tgif-qa), [MSVD-QA](https://github.com/xudejing/video-question-answering) and [MSRVTT-QA](https://github.com/xudejing/video-question-answering) datasets.      
 
+
+### Medical Report Generation Task  
+Method:     
+[Visual-Linguistic Causal Intervention for Radiology Report Generation](https://github.com/WissingChen/VLCI)       
+Benchmarks:    
+IU-Xray, MIMIC-CXR datasets.    
+
 Please feel free to let us know if you have any recommendation regarding datasets with high-quality. We are grateful for any effort that benefits the development of causality community.
 
 
