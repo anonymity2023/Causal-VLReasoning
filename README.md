@@ -77,3 +77,14 @@ Please feel free to let us know if you have any recommendation regarding dataset
 
 Please feel free to open an issue if you find anything unexpected.
 We are always targeting to make our community better!
+
+### Citation
+If you find this project useful in your research, please consider cite:    
+```
+@misc{2023Causal-VLReasoning,
+    title={HCPLab's Visual-Linguistic Causal Learning Open-source Framework and Benchmark},
+    author={Causal-VLReasoning Contributors},
+    howpublished = {\url{https://github.com/YangLiu9208/Causal-VLReasoning}},
+    year={2023}
+}
+``` 
